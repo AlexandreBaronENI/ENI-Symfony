@@ -1,0 +1,10 @@
+{% include 'shared/header.html.twig' %}
+<h1>Ajouter un streamer</h1>
+<div class="container">
+    {% form_theme twitcherForm 'shared/form/bootstrap_4_layout.html.twig' %}
+    {{ form_start(twitcherForm) }}
+    {{ form_widget(twitcherForm) }}
+    <button class="btn btn-primary" type="submit">Ajouter</button>
+    {{ form_end(twitcherForm) }}
+</div>
+{% include 'shared/footer.html.twig' %}

@@ -1,0 +1,6 @@
+{% include 'shared/header.html.twig' %}
+<h1>Profil de {{ twitcher.name }}</h1>
+<h2>Description</h2>
+<p>{{ twitcher.description }}</p>
+<p>Date d'inscription {{ twitcher.dateInscription|date('d/m/Y') }}</p>
+{% include 'shared/footer.html.twig' %}

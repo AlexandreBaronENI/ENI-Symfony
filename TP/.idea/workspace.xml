@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1063333-d23a-4d23-b7d7-2ba627801db0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/TP1/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/TP1/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/TP1/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/TP1/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/TP1/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/apache-pack" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/TP1/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/TP1/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/TP1/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/TP1/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1nw7kTdNbykhgOCvBuLgIVnPkHv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ENI\Symfony\TP\TP7\templates\user" />
+      <recent name="C:\xampp\htdocs\ENI\Symfony\TP\TP7\src\Controller" />
+      <recent name="C:\xampp\htdocs\ENI\Symfony\TP\TP4\templates\twitchers" />
+      <recent name="C:\xampp\htdocs\ENI\Symfony\TP\TP3\src\Controller" />
+      <recent name="C:\xampp\htdocs\ENI\Symfony\TP\TP3\templates\shared" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ENI\Symfony\TP\TP5\templates\shared\form" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1063333-d23a-4d23-b7d7-2ba627801db0" name="Default Changelist" comment="" />
+      <created>1612289442131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612289442131</updated>
+      <workItem from="1612289443303" duration="12683000" />
+      <workItem from="1612339473709" duration="3946000" />
+      <workItem from="1612358199868" duration="5950000" />
+      <workItem from="1612426928744" duration="15710000" />
+      <workItem from="1612451265321" duration="63000" />
+      <workItem from="1612451339263" duration="27000" />
+      <workItem from="1612451368030" duration="7965000" />
+      <workItem from="1612513823226" duration="5032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+{% include 'shared/header.html.twig' %}
+<h1>S'inscrire</h1>
+<div class="container">
+    {% form_theme signForm 'shared/form/bootstrap_4_layout.html.twig' %}
+    {{ form_start(signForm) }}
+    {{ form_widget(signForm) }}
+    <button class="btn btn-primary" type="submit">S'inscrire</button>
+    {{ form_end(signForm) }}
+</div>
+{% include 'shared/footer.html.twig' %}

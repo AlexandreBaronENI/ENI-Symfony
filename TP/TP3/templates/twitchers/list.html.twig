@@ -1,0 +1,8 @@
+{% include 'shared/header.html.twig' %}
+<h1>List des twitchers</h1>
+<ul>
+    {% for twitcher in twitchers %}
+        <li><a href="{{ path('detailTwitcher', {id: twitcher.id}) }}" >{{ twitcher.name }}</a></li>
+    {% endfor %}
+</ul>
+{% include 'shared/footer.html.twig' %}

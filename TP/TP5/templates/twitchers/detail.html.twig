@@ -1,0 +1,13 @@
+{% include 'shared/header.html.twig' %}
+{% for message in app.flashes %}
+    <div class="alert alert-primary" role="alert">
+        {% for item in message %}
+            <p>{{ item }}</p>
+        {% endfor %}
+    </div>
+{% endfor %}
+<h1>Profil de {{ twitcher.name }}</h1>
+<h2>Description</h2>
+<p>{{ twitcher.description }}</p>
+<p>Date d'inscription {{ twitcher.dateInscription|date('d/m/Y') }}</p>
+{% include 'shared/footer.html.twig' %}

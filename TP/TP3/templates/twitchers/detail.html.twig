@@ -1,0 +1,8 @@
+{% include 'shared/header.html.twig' %}
+<h1>Profil de {{ twitcher.name }}</h1>
+<ul>
+    {% for link in twitcher.links %}
+        <li><a href="{{ link }}">{{ link }}</a></li>
+    {% endfor %}
+</ul>
+{% include 'shared/footer.html.twig' %}
